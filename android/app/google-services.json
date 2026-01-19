@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "927477365224",
+    "firebase_url": "https://ubsohbet-default-rtdb.firebaseio.com",
+    "project_id": "ubsohbet",
+    "storage_bucket": "ubsohbet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927477365224:android:ca420bf1a96d50a0ed8c5d",
+        "android_client_info": {
+          "package_name": "com.example.ubsohbet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwt0BIsO_M2WDxxY0qhOmxRfyraqfskE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

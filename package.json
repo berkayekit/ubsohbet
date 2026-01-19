@@ -1,0 +1,11 @@
+{
+  "name": "ubsohbet-tools",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "seed:city-stats": "node scripts/seed_city_stats.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.2.0"
+  }
+}
